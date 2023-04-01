@@ -1,2 +1,1 @@
-# PREPCOURSE-HENRY
-este es un repositorio de prueba 
+este es un reporsitorio de prueba y es clonado desde github hasta la computadora. 
